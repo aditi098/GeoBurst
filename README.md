@@ -3,11 +3,11 @@ Local time event detection using geo tagged tweets
 The zip folder contains 10 files in total.
 
 The following 5 files are modules/python code files:
-1.text_processing_final.py
-2.Tf_IDF.py
-3.Clustering.py
-4.Candidate_Ranking.py
-5.GUI.py
+1. text_processing_final.py
+1. Tf_IDF.py
+1. Clustering.py
+1. Candidate_Ranking.py
+1. GUI.py
 
 Execute the above files in python3 in the given order:
   `$ python3 <FILE-NAME>`
